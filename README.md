@@ -1,6 +1,6 @@
 # API Security Posture Scanner
 
-A comprehensive CLI tool for assessing REST, GraphQL, and gRPC API security posture based on OWASP API Security Top 10 (2023).
+A comprehensive CLI tool for assessing REST, GraphQL, and gRPC API security posture based on OWASP API Security Top 10.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
